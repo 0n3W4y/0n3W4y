@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0n3W4y
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning UnrealEngine4
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: eMail: vulturetm@gmail.com
 
